@@ -29,3 +29,4 @@ git@github.com:simmmmo/sjb-w1-homework.git
 
 * Screenshots
 
+https://github.com/simmmmo/sjb-w1-homework/blob/main/screenshots/sjb-w1-homework-screenshot.jpg
