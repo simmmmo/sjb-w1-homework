@@ -124,7 +124,7 @@ aside {
 
 .benefits {
     margin-bottom: 32px;
-    /* Changed to black to improve   */
+    /* Changed to black to improve contrast between the text colour and background colour */
     color: #000 ;
 }
 
