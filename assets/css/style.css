@@ -91,7 +91,7 @@ aside {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #52a6d3;
 }
 
 /*!---------- Class Styles ----------*/
@@ -124,7 +124,13 @@ aside {
 
 .benefits {
     margin-bottom: 32px;
+    /* Changed to black to improve contrast between the text colour and background colour */
     color: #000 ;
+}
+
+.benefits p {
+    /* Centre align text to be consistant with the header and image alignment  */    
+    text-align: center;
 }
 
 .benefits img {
